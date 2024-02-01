@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cao !!
+=======
+Cao drugari! 
+>>>>>>> second
